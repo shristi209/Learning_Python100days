@@ -1,0 +1,11 @@
+id,name,age,gender,income,country
+1,John,32,Male,50000,USA
+2,Anna,28,Female,60000,Canada
+3,Bob,42,Male,70000,USA
+,Sara,N/a,Female,80000,UK
+5,Tom,25,Male,40000,Canada
+6,Julia,39,Female,90000,USA
+na,Chris,45,Male,85000,UK
+8,Lisa,31,Female,55000,USA
+9,Mark,,Male,45000,Canada
+10,Kate,36,Female,75000,UK
